@@ -63,7 +63,7 @@ char	man(int a)
       printf("/!\\ Attention, changer votre login ligne 158\n");
     }
   else if (a == 6)
-    printf("Usage [-u] : git clone [votre login]@git.epitech.eu:/[login du clone/[nom du dépot]\n");
+    printf("Usage [-u] : git clone [votre login]@git.epitech.eu:/[login du clone]/[nom du dépot]\n");
   else if (a == 7)
     printf("Usage [-l] : blih repository list\n");
   else
