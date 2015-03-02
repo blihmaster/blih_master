@@ -76,7 +76,7 @@ char	man(int a)
       printf("\t-s : blih repository setacl [nom du dépot] [utilisateur] [acl]\n");
       printf("\t-g : blih repository getacl [nom du dépot]\n");
       printf("\t-l : blih repository list\n");
-      printf("\t-u : git clone [votre login]@git.epitech.eu:/[login du clone/[nom du dépot]\n");
+      printf("\t-u : git clone [votre login]@git.epitech.eu:/[login du clone]/[nom du dépot]\n");
       printf("\t-m : Option master :\n");
       printf("\t[nom du dépot] [utilisateur pour acl] [acl]\n");
       printf("\t/!\\ Attention, changer votre login ligne 158\n");
