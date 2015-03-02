@@ -1,4 +1,3 @@
-# blih_master
 # Blih_Master® Dépot "blihmaster" | Utilitaire pour faciliter l'utilisation de Blih et de Git. 
 Pour que Blih_Master® fonctionne vous devez posseder une version a jour de Blih\  
 et Git et modifier les chemin d'accès ainsi qu'ajouter votre login dans le cod\ e 
